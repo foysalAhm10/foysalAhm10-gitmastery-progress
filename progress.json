@@ -1,0 +1,29 @@
+[
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1769016265.228463,
+    "completed_at": 1769016266.786547,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1769016771.758626,
+    "completed_at": 1769016773.207199,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769014604.20637,
+    "completed_at": 1769014605.696397,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
